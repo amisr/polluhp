@@ -1,4 +1,4 @@
-# uhp200 #
+# polluhp #
 A package for polling and parsing the status of a UHP Networks Ku Satellite Modem.
 
 ### Installation ###
